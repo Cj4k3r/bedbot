@@ -1,0 +1,1 @@
+Bedbot is an Open-Source Softwore created for the communication between the Tibia client and Server with the help of TibiaAPI. It was made with WPF
